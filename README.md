@@ -1,4 +1,4 @@
-# Data_Sets_HEA
+# Data_Sets_HEAs
 A recopilation of data sets for HEA prediction using ML with the individual references
 
 E1_HEA_Phase_DataSet_v1d.csv ref. https://data.mendeley.com/datasets/7fhwrgfh2s/3 https://doi.org/10.1016/j.dib.2021.107346
